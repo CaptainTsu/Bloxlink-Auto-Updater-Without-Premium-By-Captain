@@ -1,6 +1,8 @@
 ---
 # Bloxlink Auto Updater Without Premium - By [Captain](https://guns.lol/tooredcap)
-Automatically updates every user's roblox in your Discord Server with /update slash command - No Premium required
+
+**Automatically updates every user's roblox in your Discord Server with /update slash command - No Premium required**
+
 ---
 
 ⭐️ **If you enjoyed the project, please give it a star by clicking the button at the top right of the page.**  
@@ -10,13 +12,29 @@ Automatically updates every user's roblox in your Discord Server with /update sl
 
 ## Jump To
 
-- [Features](#features)
-- [Preview](#preview)
 - [Configurations](#configurations)
 - [Contributing](#contributing)
 - [Support](#support)
 - [Made By](#made-by)
 - [License](#license)
+---
+## Configurations
+
+ ### Configs
+ ```js
+  // General Configs
+  module.exports = {
+    TOKEN: '',
+
+    SERVER_ID: '', 
+    CHANNEL_ID: '',
+    DELAY: 5000 //Delay between updating users (default 5 sec)
+}
+```
+  - **`TOKEN`**: Your account's token (required to run).
+  - **`SERVER_ID`**: Your server's ID where you want to run this.
+  - **`CHANNEL_ID`**: Channel ID where you want to run this.
+  - **`DELAY`**: Delay between updating users (5/6 sec recommended)
 
 ---
 ## Contributing
