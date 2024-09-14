@@ -1,8 +1,8 @@
 ---
-# Discord.js v14 Command Handler - By [Captain](https://guns.lol/tooredcap)
+# Bloxlink Auto Updater Without Premium - By [Captain](https://guns.lol/tooredcap)
 
-🚀 **A powerful and customizable command handler for Discord.js v14, made to be both flexible and efficient.**  
-👨‍💻 Created by **Captain** [@toorecap](https://discord.com/users/565854774612983808) *(me ofc)*, this handler supports message and slash commands, event handling, and advanced bot functionality with ease.
+🚀 **Automatically updates every user's roblox in your Discord Server with /update slash command - No Premium required***  
+👨‍💻 Created by **Captain** [@toorecap](https://discord.com/users/565854774612983808) *(me ofc)*, this auto updater supports updating 100,000+ members without rate limiting.
 
 ---
 
