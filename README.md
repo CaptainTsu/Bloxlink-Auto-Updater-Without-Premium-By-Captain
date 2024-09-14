@@ -17,6 +17,7 @@
 - [Support](#support)
 - [Made By](#made-by)
 - [License](#license)
+
 ---
 ## Configurations
 
